@@ -1,0 +1,8 @@
+C:\Luana-cursos\Condicao\Condicao\bin\Debug\Condicao.exe.config
+C:\Luana-cursos\Condicao\Condicao\bin\Debug\Condicao.exe
+C:\Luana-cursos\Condicao\Condicao\bin\Debug\Condicao.pdb
+C:\Luana-cursos\Condicao\Condicao\obj\Debug\Condicao.csproj.AssemblyReference.cache
+C:\Luana-cursos\Condicao\Condicao\obj\Debug\Condicao.csproj.SuggestedBindingRedirects.cache
+C:\Luana-cursos\Condicao\Condicao\obj\Debug\Condicao.csproj.CoreCompileInputs.cache
+C:\Luana-cursos\Condicao\Condicao\obj\Debug\Condicao.exe
+C:\Luana-cursos\Condicao\Condicao\obj\Debug\Condicao.pdb
